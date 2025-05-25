@@ -1,7 +1,7 @@
 {
     "name": "SakuraMC-Launcher",
     "preductname": "SakuraMC Launcher",
-    "version": "2.0.7",
+    "version": "1.0.2",
     "description": "Launcher Minecraft Officiel du serveur SakuraMC",
     "main": "src/app.js",
     "author": {
